@@ -1,0 +1,31 @@
+# Ignore raw and processed data (keep only small demo data manually if needed)
+data/raw/*
+data/processed/*
+
+# Ignore model weights and checkpoints
+*.pt
+*.pth
+*.ckpt
+*.npz
+*.npy
+*.h5
+
+# Ignore large experiment logs
+*.log
+tensorboard_logs*/
+results*/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
+
+# Ignore IDE/project files
+.vscode/
+.idea/
+*.swp
