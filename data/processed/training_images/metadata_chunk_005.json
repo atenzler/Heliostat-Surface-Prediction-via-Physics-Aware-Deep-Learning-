@@ -1,0 +1,82 @@
+[
+  {
+    "augmented_surface_file": "augmented_surface_AUG33.pt",
+    "heliostat_name": "AO41",
+    "position_enu": [
+      20.86506462097168,
+      90.04051971435547,
+      1.7236709594726562,
+      1.0
+    ]
+  },
+  {
+    "augmented_surface_file": "augmented_surface_AUG34.pt",
+    "heliostat_name": "AN58",
+    "position_enu": [
+      95.649169921875,
+      84.34175109863281,
+      1.8489990234375,
+      1.0
+    ]
+  },
+  {
+    "augmented_surface_file": "augmented_surface_AUG35.pt",
+    "heliostat_name": "AX61",
+    "position_enu": [
+      109.15764617919922,
+      146.26837158203125,
+      1.9550018310546875,
+      1.0
+    ]
+  },
+  {
+    "augmented_surface_file": "augmented_surface_AUG36.pt",
+    "heliostat_name": "AL43",
+    "position_enu": [
+      29.601457595825195,
+      75.22372436523438,
+      1.7715835571289062,
+      1.0
+    ]
+  },
+  {
+    "augmented_surface_file": "augmented_surface_AUG37.pt",
+    "heliostat_name": "BE44",
+    "position_enu": [
+      34.73427963256836,
+      209.7146759033203,
+      1.7893295288085938,
+      1.0
+    ]
+  },
+  {
+    "augmented_surface_file": "augmented_surface_AUG38.pt",
+    "heliostat_name": "AF33",
+    "position_enu": [
+      -14.530610084533691,
+      47.86964416503906,
+      1.785003662109375,
+      1.0
+    ]
+  },
+  {
+    "augmented_surface_file": "augmented_surface_AUG39.pt",
+    "heliostat_name": "AZ48",
+    "position_enu": [
+      52.05686569213867,
+      162.60482788085938,
+      1.7750015258789062,
+      1.0
+    ]
+  },
+  {
+    "augmented_surface_file": "augmented_surface_AUG40.pt",
+    "heliostat_name": "AR55",
+    "position_enu": [
+      82.58937072753906,
+      105.99706268310547,
+      1.792999267578125,
+      1.0
+    ]
+  }
+]
