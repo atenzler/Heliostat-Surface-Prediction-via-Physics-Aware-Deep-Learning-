@@ -1,4 +1,4 @@
-DeepLARTS Thesis Repository
+Thesis Repository
 ===========================
 
 This repository contains the code, data, and experiments used for my 
@@ -16,6 +16,8 @@ The repository is organized to allow:
 Repository structure
 ------------------------------------------------------------
 
+'''
+
 data/             Raw + processed data
   ├── raw/        Inputs for preprocessing
   └── processed/  Data used directly in training/evaluation
@@ -31,6 +33,7 @@ src/              Source code
   ├── evaluation/        Evaluation scripts
   └── config/            Configuration (my_cfg.py etc.)
 
+'''
 
 ------------------------------------------------------------
 Notes
